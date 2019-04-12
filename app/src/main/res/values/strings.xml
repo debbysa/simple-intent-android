@@ -4,4 +4,9 @@
     <string name="button_main">Send</string>
     <string name="activity2_name">Second Activity</string>
     <string name="text_header">Pesan Diterima</string>
+    <string name="text_nama">editText_nama</string>
+    <string name="text_alamat">editText_alamat</string>
+    <string name="text_nohp">editText_nohp</string>
+    <string name="button_share">button_share</string>
+    <string name="share">SHARE</string>
 </resources>
